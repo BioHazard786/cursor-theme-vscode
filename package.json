@@ -1,0 +1,75 @@
+{
+  "name": "vscode-cursor-theme",
+  "displayName": "Cursor Theme",
+  "description": "A beautiful and modern VS Code theme forked from Cursor IDE.",
+  "version": "0.0.1",
+  "publisher": "MohdZaid",
+  "author": {
+    "name": "Mohd Zaid",
+    "email": "message@zaid.qzz.io",
+    "url": "https://zaid.qzz.io"
+  },
+  "engines": {
+    "vscode": "^1.18.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "light",
+    "midnight",
+    "color-theme",
+    "cursor",
+    "modern",
+    "vibrant"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/BioHazard786/cursor-theme-vscode/blob/main/README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BioHazard786/cursor-theme-vscode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BioHazard786/cursor-theme-vscode/issues",
+    "email": "message@zaid.qzz.io"
+  },
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#88c0d0",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cursor Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cursor-dark.json"
+      },
+      {
+        "label": "Cursor Dark Midnight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cursor-dark-midnight.json"
+      },
+      {
+        "label": "Cursor Light",
+        "uiTheme": "vs",
+        "path": "./themes/cursor-light.json"
+      }
+    ]
+  },
+  "scripts": {
+    "vscode:prepublish": "npm run compile",
+    "compile": "echo 'No compilation needed for theme'",
+    "package": "vsce package",
+    "publish": "vsce publish"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@vscode/vsce": "^3.6.2"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
