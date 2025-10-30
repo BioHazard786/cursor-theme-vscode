@@ -5,7 +5,11 @@
   Cursor Theme for VS Code
 </h1>
 <p align="center">
-  A beautiful and modern VS Code theme with pastels colors and excellent readability, forked from Cursor IDE.
+  A beautiful and modern VS Code theme with pastels colors and excellent readability, forked from <a href="https://cursor.sh/">Cursor</a> IDE.
+</p>
+
+<p align="center">
+  <strong>Disclaimer:</strong> This extension is not affiliated with or endorsed by Cursor. All credit for the original theme design goes to the Cursor team.
 </p>
 <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=MohdZaid.cursor-theme">
@@ -88,4 +92,4 @@ See [CHANGELOG.md](CHANGELOG.md) for release notes.
 
 ---
 
-**Enjoy coding with cursor Theme!** 🎨
+**Enjoy coding with Cursor Theme!** 🎨
