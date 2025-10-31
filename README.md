@@ -12,14 +12,14 @@
   <strong>Disclaimer:</strong> This extension is not affiliated with or endorsed by Cursor. All credit for the original theme design goes to the Cursor team.
 </p>
 <p align="center">
-  <a href="https://marketplace.visualstudio.com/items?itemName=MohdZaid.cursor-theme">
-    <img alt="Version" src="https://img.shields.io/visual-studio-marketplace/v/MohdZaid.cursor-theme?color=brightgreen" />
+  <a href="https://marketplace.visualstudio.com/items?itemName=MohdZaid.vscode-cursor-theme">
+    <img alt="Version" src="https://img.shields.io/visual-studio-marketplace/v/MohdZaid.vscode-cursor-theme?color=brightgreen" />
   </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=MohdZaid.cursor-theme">
-    <img alt="Downloads" src="https://img.shields.io/visual-studio-marketplace/d/MohdZaid.cursor-theme" />
+  <a href="https://marketplace.visualstudio.com/items?itemName=MohdZaid.vscode-cursor-theme">
+    <img alt="Downloads" src="https://img.shields.io/visual-studio-marketplace/d/MohdZaid.vscode-cursor-theme" />
   </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=MohdZaid.cursor-theme">
-    <img alt="Installs" src="https://img.shields.io/visual-studio-marketplace/i/MohdZaid.cursor-theme" />
+  <a href="https://marketplace.visualstudio.com/items?itemName=MohdZaid.vscode-cursor-theme">
+    <img alt="Installs" src="https://img.shields.io/visual-studio-marketplace/i/MohdZaid.vscode-cursor-theme" />
   </a>
 </p>
 
